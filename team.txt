@@ -1,3 +1,3 @@
 Team members: jonstewart-js and Dqnkzyy
 Favorite programming language: Java
-Team motto: this line is super changed
+Team motto: CS193 motto
